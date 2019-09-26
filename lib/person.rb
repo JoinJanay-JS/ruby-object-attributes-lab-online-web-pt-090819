@@ -8,7 +8,7 @@ def Person
   end
  
   def job=(new_job)
-    @job = job_name
+    @job = new_job
   end
  
 end
