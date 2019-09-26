@@ -22,5 +22,3 @@ end
  
 fido = Dog.name("fido")
  fido.name
-fido = Dog.breed 
- fido.breed
