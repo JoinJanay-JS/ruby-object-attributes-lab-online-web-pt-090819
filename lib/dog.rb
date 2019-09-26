@@ -1,4 +1,6 @@
+require pry 
 class Dog 
+  bindng.pry 
   def initialize(name)
     @name = name
   end
