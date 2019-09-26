@@ -23,3 +23,7 @@ def Person
     @job = new_job
   end
 end
+
+beyonce = Person.name
+beyonce.name 
+beyonce.job 
