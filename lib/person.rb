@@ -1,5 +1,5 @@
 def Person
-  def initialize(name)
+  def name
     @name = name
   end
  
@@ -11,7 +11,7 @@ def Person
     @name = new_name
   end
   
-  def initialize(job)
+  def job
     @job = job
   end
   
