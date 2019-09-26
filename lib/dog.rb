@@ -1,6 +1,5 @@
 require pry 
 class Dog 
-  bindng.pry 
   def name
     @name = name
   end
@@ -13,7 +12,7 @@ class Dog
     @name = new_name
   end
   
-  def initialize(breed)
+  def breed
     @breed = breed
   end
   
