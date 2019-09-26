@@ -29,3 +29,5 @@ fido.name
 fido.breed 
 
 snoopy = Dog.new
+snoopy.name
+snoopy.breed 
