@@ -3,3 +3,6 @@ class Dog
     @name = name
   end
 end 
+ 
+ dog.name 
+ 
