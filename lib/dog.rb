@@ -20,6 +20,11 @@ class Dog
   end
 end
 
-fido = Dog.new 
+fido = Dog.new("fido")
+ 
 fido.name
-fido.breed  
+  => "fido"
+ 
+fido.name = "fido"
+fido.name
+  => "fido"
