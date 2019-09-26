@@ -24,6 +24,6 @@ def Person
   end
 end
 
-beyonce = Person.name
+beyonce = Person.new
 beyonce.name 
 beyonce.job 
