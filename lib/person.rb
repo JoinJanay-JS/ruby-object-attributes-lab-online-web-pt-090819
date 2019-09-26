@@ -23,3 +23,7 @@ def Person
     @job = new_job
   end
 end
+
+fido = Dog.new
+fido.name
+fido.job
