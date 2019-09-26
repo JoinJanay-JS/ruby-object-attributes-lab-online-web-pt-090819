@@ -7,5 +7,5 @@ class Dog
   end
 end 
  
-fido
+fido = Dog.new(name)
  
