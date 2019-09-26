@@ -1,4 +1,3 @@
-require pry 
 class Dog 
   def name
     @name = name
