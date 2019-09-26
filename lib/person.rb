@@ -24,6 +24,6 @@ def Person
   end
 end
 
-fido = Dog.new
+fido = Person.new
 fido.name
 fido.job
