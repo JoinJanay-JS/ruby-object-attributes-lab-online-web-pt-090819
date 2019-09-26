@@ -25,4 +25,3 @@ def Person
 end
 
 beyonce = Person.new
-@name.beyonce
