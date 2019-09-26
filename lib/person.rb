@@ -1,14 +1,14 @@
 def Person
-  def initialize(name)
-    @name = name
+  def initialize(job)
+    @job = job
   end
  
   def name
-    @name
+    @job
   end
  
-  def name=(new_name)
-    @name = new_name
+  def job=(new_job)
+    @job = job_name
   end
  
 end
