@@ -20,11 +20,3 @@ class Dog
   end
 end
 
-fido = Dog.new("fido")
- 
-fido.name
-  => "fido"
- 
-fido.name = "fido"
-fido.name
-  => "fido"
