@@ -1,5 +1,5 @@
 class Person
-  def initialize(name)
+  def name
     @name = name
   end
  
@@ -24,4 +24,6 @@ class Person
   end
 end
 
-
+beyonce = Person.new
+beyonce.name
+beyonce.job
